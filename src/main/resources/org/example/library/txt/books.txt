@@ -1,0 +1,4 @@
+B002,Java Programming,Oracle,Programming,James Gosling,2021-01-01,9,C:/book-image/B002.jpg
+60A3E,thinh,1231231211,1123,1123,2024-10-08,1211,C:/book-image/60A3E.jpg
+64419,123123,123123,123,123,2024-10-15,122,C:/book-image/64419.jpg
+57F2F,manhkhaa,Kimdongg,ssssa,T,2024-10-21,1222,C:/book-image/57F2F.jpg

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.net.URL?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="621.0" prefWidth="1222.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.example.library.controllers.MenuController">
+   <children>
+      <ListView fx:id="optionMenu" layoutY="-1.0" onMouseClicked="#onChooseMenu" prefHeight="617.0" prefWidth="228.0" stylesheets="@css/listView.css" />
+      <AnchorPane fx:id="pane" layoutX="228.0" prefHeight="617.0" prefWidth="994.0" />
+      <Button layoutX="57.0" layoutY="546.0" mnemonicParsing="false" onAction="#onClickLogout" text="Đăng xuất" />
+   </children>
+   <stylesheets>
+      <URL value="@css/Style.css" />
+      <URL value="@css/Metro-UI.css" />
+   </stylesheets>
+</AnchorPane>
